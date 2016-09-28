@@ -11,7 +11,8 @@ public class Capitale{
 	public Capitale(){
 		
 	}
-
+//test comm git
+	
 	public  String getNom() {
 		return nom;
 	}
