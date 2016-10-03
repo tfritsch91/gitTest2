@@ -12,7 +12,7 @@ public class Capitale{
 		
 	}
 //test comm git
-	
+	//test commit git
 	public  String getNom() {
 		return nom;
 	}
